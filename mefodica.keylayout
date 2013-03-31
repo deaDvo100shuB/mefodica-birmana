@@ -1569,7 +1569,7 @@
         </action>
         <action id="э">
             <when state="none" output="э"/>
-            <when state="diaeresis" output="ӭ"/>
+            <when state="diaeresis" output="ӭ"/>
         </action>
         <action id="ё">
             <when state="none" output="ё"/>
